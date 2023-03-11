@@ -4,6 +4,4 @@ GIT PULL SECond comment
 <<<<<<< HEAD
 fourth comment
 commitd
-=======
-fourth commit
->>>>>>> 75ef1a2d3c8d850661d7ca93f83740f86311e55c
+sixth change
